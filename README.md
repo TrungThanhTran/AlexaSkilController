@@ -12,6 +12,7 @@ Alexa skills, lambdaVRFunction, CloudMQTT is server components, VR control modul
 1.	Step 1: Setup CloudMQTT (CuteCat) 
 2.	Step 2: Build source code lambdaVRFunction
 3.	Step 3: Installation Alexa Skills
+4. Step 4: Copy java files to ../samples/javaclient/src/main/java/com/amazon/alexa
 Amazon Echo Dot is voice-controlled device can recognition voice commands from the user.
 
 Setup CloudMQTT(CuteCat)
